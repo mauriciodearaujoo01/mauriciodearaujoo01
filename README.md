@@ -12,8 +12,8 @@ Estou em constante aprendizado nas áreas de desenvolvimento de software, lógic
 ---
 
 ### 📚 Estudos e Objetivos
-- 🎓 Cursando Ensino Técnico Integrado em Informática (IFCE)
-- 🎯 Buscando oportunidades de aprendizado, projetos acadêmicos e primeiro estágio na área de T.I.
+-  Cursando Ensino Técnico Integrado em Informática (IFCE)
+-  Buscando oportunidades de aprendizado, projetos acadêmicos e primeiro estágio na área de T.I.
 
 ---
 
